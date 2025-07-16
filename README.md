@@ -1,6 +1,6 @@
 # 🔵 Circle Code System
 
-![Circle Code Example](examples/test_circlecode.png)
+![Circle Code Example](test_circlecode.png)
 
 A revolutionary circular alternative to QR codes that uses concentric circles, lines, and dots to encode data. Unlike traditional square-based QR codes, Circle Codes offer a unique aesthetic and efficient data encoding system.
 
